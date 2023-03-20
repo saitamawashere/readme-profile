@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saitamawashere
 - 👀 I’m interested in FrontEnd & Networking
-- 🌱 I’m currently learning College
+- 🌱 I’m currently informatics undergraduated student
 - 💞️ I’m looking to collaborate on Social
 - 📫 How to reach me Connect me on Social Media!
 
